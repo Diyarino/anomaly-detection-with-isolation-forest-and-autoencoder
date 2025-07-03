@@ -33,7 +33,7 @@ The reconstruction errors from the autoencoder and the decision function of the 
 ## 📊 Final Evaluation
 
 <p align="center">
-  <img src="anomaly_detection_comparison.png" width="600" alt="Anomaly Detection Comparison">
+  <img src="anomaly_detection_comparison_1.png" width="600" alt="Anomaly Detection Comparison">
 </p>
 
 ---
