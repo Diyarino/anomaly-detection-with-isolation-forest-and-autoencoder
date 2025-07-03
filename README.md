@@ -55,7 +55,7 @@ Recommended: Run in a virtual environment (e.g., `venv` or `conda`).
 Clone this repository and run the following code
 ```bash
 git clone https://github.com/diyarino/anomaly-detection-with-isolation-forest-and-autoencoder/.git
-cd anomaly-hybrid-autoencoder
+cd anomaly-detection-with-isolation-forest-and-autoencoder/
 python main.py
 ```
 
